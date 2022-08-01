@@ -70,3 +70,6 @@ dist/
 .vscode/
 
 .cache/
+
+# file: ~/.gitignore_global
+.idea
