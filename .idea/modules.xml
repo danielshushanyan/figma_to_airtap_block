@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/figma_to_airtap_plugin.iml" filepath="$PROJECT_DIR$/.idea/figma_to_airtap_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../figma_to_airtap_block/.idea/figma_to_airtap_block.iml" filepath="$PROJECT_DIR$/../figma_to_airtap_block/.idea/figma_to_airtap_block.iml" />
     </modules>
   </component>
 </project>

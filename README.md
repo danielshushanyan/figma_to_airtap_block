@@ -1,10 +1,3 @@
-![Figma Plugin TypeScript Boilerplate](.github/cover.jpg)
-
-**Figma plugin TypeScript boilerplate to start developing right away.**
-
-[![Actions Status](https://github.com/aarongarciah/figma-plugin-typescript-boilerplate/workflows/CI/badge.svg)](https://github.com/aarongarciah/figma-plugin-typescript-boilerplate/actions)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
 ## Quick start
 
 1. Get the boilerplate **choosing one** of these methods:
@@ -67,22 +60,3 @@ To develop a Figma plugin you need to install the Figma [desktop app](https://ww
 - Contains a GitHub action to run the `build` and `test` commands.
 
 ---
-
-## Having problems?
-
-Take a look if someone already opened [a similar issue](https://github.com/aarongarciah/figma-plugin-boilerplate/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Aupdated-desc+) or open a [new one](https://github.com/aarongarciah/figma-plugin-boilerplate/issues/new).
-
----
-
-## Roadmap
-
-- [ ] Add FAQ to README.
-- [ ] Add bin executables to create templates via `npx`.
-
----
-
-## License
-
-MIT
-
-Made with ♥️ by [Aarón García Hervás](https://aarongarciah.com)
